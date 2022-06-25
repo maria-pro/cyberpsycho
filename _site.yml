@@ -4,6 +4,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    
+    - text: "Research"
+      href: about.html
+
+    - text: "Projects"
+      href: about.html
+    
+    - text: "About"
+      href: about.html
+      
+      
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<maria.prokofieva@gmail.com>
