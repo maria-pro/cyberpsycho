@@ -1,12 +1,12 @@
-name: "cat-website"
+name: "cyberpsycho-website"
 navbar:
-  title: "My cats' website"
+  title: "Cyber Psycho Group"
   left:
     - text: "Home"
       href: index.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<cats@catemail.com>
+      href: mailto:<maria.prokofieva@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/maria-pro/
 output:
